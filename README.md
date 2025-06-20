@@ -17,6 +17,10 @@ Built custom resolvers in sandbox environments and refactored legacy logic to im
 * **Swift Memory Management Insight**:  </br>
 Diagnosed and fixed a silent unit test failure caused by ARC mismanagement. Implemented withExtendedLifetime for proper object retention—improving test reliability and deepening my grasp of Swift's memory model.
 
+### 👩🏻‍💻Projects I've worked on
+- Vitality UK 
+- Gyde 
+
 While iOS is my current domain, I’m actively expanding my technical toolkit to include broader software engineering concepts and new tech stacks. This includes:
 
 * Diving deeper into systems design, software architecture, and design patterns
