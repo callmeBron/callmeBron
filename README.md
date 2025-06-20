@@ -1,4 +1,4 @@
-## Welcome to my ✨ _profile_ ✨ 👋
+## Welcome to my ✨ _profile_ ✨ 
 👩🏻‍💻 Currently working as an Intermediate iOS Software Engineer, I focus on delivering modular and maintainable Swift codebases using:
   * Swift, SwiftUI, Combine
   * GraphQL (Apollo), Firebase, Realm
