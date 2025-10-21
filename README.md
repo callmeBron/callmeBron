@@ -54,7 +54,6 @@ I was largely involved in the rewrite and development of the Rewards scheme over
 <p>Involved on one of  South Africa's largest bank, where I was delivering new features as well as maintaining product alongside a team.</p>
 
 ### Tech Experience
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callmeBron&layout=compact)
 
 **Languages**
 
