@@ -35,9 +35,11 @@ and deepening my grasp of Swift's memory model.
 <b>Last updated: February 2025</b>
 <p><i>Stay productive and plan smarter with Tasksy!  Create, edit, and manage your tasks effortlessly while staying updated with real-time weather information—helping you make better decisions for your day.</i><p>
 <br>
-
+ 
+<a href="https://github.com/callmeBron/MobileRecipeApp-ios">
 <img width="100" height="99" alt="410803196-48d64f66-e9e2-4b8b-bb04-9a98bd27ce7a" src="https://github.com/user-attachments/assets/3006c270-7f73-4b77-b7d8-e7d3e3068c1f" />
-
+</a> 
+ 
 ### Chefs'pert - iOS
 <b>Last updated: December 2022</b>
 <p><i>As an avid food lover you decide to build a recipe application for those moments where the classics just won’t cut it. The application should allow users to search for a recipe and allow them to keep a list of their favourites.</i><p>
