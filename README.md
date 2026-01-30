@@ -27,7 +27,7 @@ and deepening my grasp of Swift's memory model.
 ## Personal Project Spotlight
 
 <a href="https://github.com/callmeBron/courtio-ios">
- <img width="100" height="99" alt="court.io logo" src="https://github.com/user-attachments/assets/61e38c01-93e8-4959-a9e6-e1ef5219b42d" />
+ <img width="100" height="100" alt="Rectangle 63" src="https://github.com/user-attachments/assets/b7f4de46-6df7-4ce9-85ac-40f4d10ee379" />
 </a> 
 <br>
 
