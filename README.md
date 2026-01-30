@@ -26,6 +26,16 @@ and deepening my grasp of Swift's memory model.
 ```
 ## Personal Project Spotlight
 
+<a href="https://github.com/callmeBron/courtio-ios">
+ <img width="100" height="99" alt="court.io logo" src="https://github.com/user-attachments/assets/61e38c01-93e8-4959-a9e6-e1ef5219b42d" />
+</a> 
+<br>
+
+### Courtio - iOS
+<b>Last updated: Jan 2026</b>
+<p><i>A greenfield squash app.</i><p>
+<br>
+ 
 <a href="https://github.com/callmeBron/Tasksy-ios">
  <img width="100" height="99" alt="410625253-b665fc2e-0840-4b14-9724-34433701856e" src="https://github.com/user-attachments/assets/21db6d44-7622-4271-acb1-eabbac6f3c56" />
 </a> 
@@ -70,7 +80,7 @@ I was largely involved in the rewrite and development of the Rewards scheme over
 <a href="https://apps.apple.com/za/app/capitec-bank/id1217842108">
 <img width="80" height="80" alt="Capitec-Icon-Colour-768x768" src="https://github.com/user-attachments/assets/b6a75d59-31b6-48e0-b193-125882726b22" />
 </a></br>
-<b>August 2025</b></br>
+<b>August 2025 - Present</b></br>
 <b>Intermediate Mobile Software Engineer</b></br>
 <p>Involved on one of  South Africa's largest bank, where I was delivering new features as well as maintaining product alongside a team.</p>
 
