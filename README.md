@@ -1,4 +1,4 @@
-# Bronwyn dos Santos | Mobile Software Engineer
+# Bronwyn dos Santos | Software Engineer
 Mobile Software Engineer focused on native development, scalable mobile architecture, and developer tooling. I enjoy building modular, maintainable systems and improving developer workflows through CI/CD, automation, and better engineering practices.
 
 My experience spans end-to-end feature delivery, mobile security integrations, and platform infrastructure across native mobile applications. While mobile is my core domain, I’m continuously expanding into broader software engineering areas including backend systems, distributed architecture, game development, and interactive technology.
