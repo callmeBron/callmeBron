@@ -1,30 +1,66 @@
- ## Welcome!
-👩🏻‍💻 Currently working as an Intermediate Mobile Software Engineer, I focus on delivering modular and maintainable implementations. While Mobile is my current domain, I’m actively expanding my technical toolkit to include broader software engineering concepts and new tech stacks. such as Game Development 👾 and Backend/API technologies
+# Bronwyn dos Santos | Mobile Software Engineer
+Mobile Software Engineer focused on native development, scalable mobile architecture, and developer tooling. Passionate about building modular systems and improving developer workflows through CI/CD and automation.
 
-**What you'll find here**
+My experience spans end-to-end feature delivery, mobile security integrations, and platform infrastructure across native mobile applications. While mobile is my core domain, I’m continuously expanding into broader software engineering areas including backend systems, distributed architecture, game development and interactive tech.
+
+<b> • Swift • SwiftUI • UIKit • Kotlin • GraphQL • Realm • Fastlane • CI/CD • Mobile Architecture • Scripting • C++ </b>
+
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=callmeBron&screen_effect=true&pixelate_avatar=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=callmeBron&screen_effect=true&pixelate_avatar=false">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=callmeBron&screen_effect=true&pixelate_avatar=false">
+</picture>
+
+📍 **What you'll find here**
 ```yaml
-* Modular iOS architectures
-* A Dive into Android Development
-* Some backend work with the Springboot framework
-* A move into Game development!
+* Mobile development
+* Some backend 
+* And a move into Game development + Interactive tech
 ```
 
-**Current Highlights**
+🚀 **Current Highlights**
 ```yaml
 Integration Workflow Optimization:
-> Reduced story point estimates from 8/5 to 3 and below by streamlining Apollo Studio query setup 
-and GraphQL gateway integration—boosting team velocity and delivery confidence.
+> Reduced story point estimates from 8/5 to 3 and below by streamlining Apollo Studio
+  query setup and GraphQL gateway integration—boosting team velocity and delivery confidence.
 
 GraphQL Resolver Development:
 > Built custom resolvers in sandbox environments and refactored legacy logic to improve
- performance and readability across shared modules.
+  performance and readability across shared modules.
 
 Swift Memory Management Insight:
 > Diagnosed and fixed a silent unit test failure caused by ARC mismanagement.
- Implemented withExtendedLifetime for proper object retention—improving test reliability
-and deepening my grasp of Swift's memory model.
+  Implemented withExtendedLifetime for proper object retention—improving test reliability
+  and deepening my grasp of Swift's memory model.
+
+Capacitor Migration & Plugin Development:
+> Developed and maintained Capacitor plugins and wrapper layers supporting the
+  migration from Cordova to Capacitor architecture.
+
+Security Module Refactor:
+> Refactored DAON facial recognition module from Objective-C to Swift, introducing
+  MVVM architecture and automated unit testing.
+
+CI/CD & Build Infrastructure:
+> Improved pipelines with Fastlane for automated testing validation.
+  Built internal tooling and scripts for GitHub macOS runner infrastructure
+  to support scalable CI pipelines.
+
+Feature Flagging System:
+> Designed a compile-time feature flagging system using Ruby automation and shared
+  configuration to support trunk-based development on iOS project.
+
+Payments Integration:
+> Implemented Google Pay micro-frontend integration using Facade and Adapter patterns.
+
+PDF Security & Encryption:
+> Led collaboration for secure PDF password protection and encryption workflows
+  across iOS and Android platforms.
 ```
-## Personal Project Spotlight
+
+---
+
+## Personal Project Spotlight 👾
 
 <a href="https://github.com/callmeBron/courtio-ios">
  <img width="100" height="100" alt="Rectangle 63" src="https://github.com/user-attachments/assets/b7f4de46-6df7-4ce9-85ac-40f4d10ee379" />
@@ -32,48 +68,38 @@ and deepening my grasp of Swift's memory model.
 <br>
 
 ### Courtio - iOS
-<b>Last updated: Jan 2026</b>
+<b>Jan 2026 - Current</b>
 <p><i>A greenfield squash app.</i><p>
 <br>
  
-<a href="https://github.com/callmeBron/Tasksy-ios">
- <img width="100" height="99" alt="410625253-b665fc2e-0840-4b14-9724-34433701856e" src="https://github.com/user-attachments/assets/21db6d44-7622-4271-acb1-eabbac6f3c56" />
-</a> 
-<br>
 
-### Tasksy - iOS
-<b>Last updated: February 2025</b>
-<p><i>Stay productive and plan smarter with Tasksy!  Create, edit, and manage your tasks effortlessly while staying updated with real-time weather information—helping you make better decisions for your day.</i><p>
-<br>
- 
-<a href="https://github.com/callmeBron/MobileRecipeApp-ios">
-<img width="100" height="99" alt="410803196-48d64f66-e9e2-4b8b-bb04-9a98bd27ce7a" src="https://github.com/user-attachments/assets/3006c270-7f73-4b77-b7d8-e7d3e3068c1f" />
-</a> 
- 
-### Chefs'pert - iOS
-<b>Last updated: December 2022</b>
-<p><i>As an avid food lover you decide to build a recipe application for those moments where the classics just won’t cut it. The application should allow users to search for a recipe and allow them to keep a list of their favourites.</i><p>
-<br>
-
-
-## Project Experience
+## Professional Experience 📱
 
 ### Gyde.com
 <a href="https://apps.apple.com/za/app/gyde-com/id1480037717">
 <img width="80" height="82" alt="Screenshot 2025-10-08 at 13 54 56" src="https://github.com/user-attachments/assets/110447aa-517d-459f-abb3-20997d244401" /></a></br>
 <b>April 2022 - August 2022</b></br> 
 <b>Junior iOS Software Engineer</b></br>
-<p>A greenfield iOS app which allows users to share and facillitate access to their favourite spots from around the world🌍. Focused on building out the feature journeys and collaborating with designers to ensure a great client outcome.</p>
-
+<p>A greenfield iOS app that lets users discover and share their favourite spots from around the world 🌍. 
+Built end-to-end feature journeys from scratch, working closely with designers to deliver 
+a polished and intuitive user experience.</p>
  
 ### Vitality UK 
- <a href="https://apps.apple.com/za/app/vitality-uk/id794024908">
+<a href="https://apps.apple.com/za/app/vitality-uk/id794024908">
 <img width="80" height="80" alt="Vitality-logo-pink svg" src="https://github.com/user-attachments/assets/729f2647-f133-4218-bf66-b6765afbcb54" />
-</a> </br>
+</a></br>
 <b>August 2022 - July 2025</b></br> 
 <b>Intermediate iOS Software Engineer</b></br> 
-<p>The Vitality app is centered around driving user engagement and fitness goals through an active rewards scheme.
-I was largely involved in the rewrite and development of the Rewards scheme overhaul, through planning, building and testing features. Ensured project success by refactoring and maintaining existing code on the app.</p>
+<p>The Vitality app drives user engagement and fitness goals through an active rewards scheme.
+Heavily involved in the end-to-end overhaul of the Rewards platform, from planning and 
+architecture through to delivery and testing. Led the development of the Pick Reward Mall 
+feature, encompassing GraphQL integration, persistence architecture, UI development, and 
+automated testing. Worked with a modular provider architecture enabling reusable UI components, 
+and maintained and updated a GraphQL sandbox testing environment supporting UI automation and integration testing.
+Worked with Apollo GraphQL to design and maintain queries and schemas. Mentored junior developers 
+and interns through structured code pairing and technical guidance, and represented the iOS team 
+in PI planning, providing implementation overviews and contributing to delivery confidence across 
+native squads.</p>
 
 
 ### Capitec Bank
@@ -82,7 +108,18 @@ I was largely involved in the rewrite and development of the Rewards scheme over
 </a></br>
 <b>August 2025 - Present</b></br>
 <b>Intermediate Mobile Software Engineer</b></br>
-<p>Involved on one of  South Africa's largest bank, where I was delivering new features as well as maintaining product alongside a team.</p>
+<p>Contributing to one of South Africa's largest banking apps, delivering new features and 
+maintaining a high-quality product within a cross-functional mobile team. Developed and 
+maintained Capacitor plugins and wrapper layers as part of a legacy plugin migration. 
+Refactored the facial recognition security module from Objective-C to Swift, introducing 
+MVVM architecture and automated unit testing. Designed and implemented a compile-time feature flagging system 
+using Ruby automation and shared configuration to support trunk-based development. Strengthened 
+CI/CD pipelines with Unit testing and validation and built internal tooling for GitHub macOS runner infrastructure 
+to support scalable CI pipelines. Implemented micro-frontend integration using Facade 
+and Adapter patterns, and led collaboration for secure PDF password protection and 
+encryption workflows across iOS and Android platforms.</p>
+
+---
 
 ### Tech Experience
 
